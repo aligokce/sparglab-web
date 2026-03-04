@@ -1,12 +1,13 @@
 # site properties and page defaults
 title: METU SPARG
 subtitle: METU Spatial Audio Research Group
+show-title: false
 description: >-
   Founded in 2013 to consolidate ongoing research work at METU Graduate School of Informatics 
   in the area of audio signal processing to further the state-of-the-art in 
   spatial and 3D audio capture, editing, synthesis, transmission, reproduction, and testing.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/lab_zylias.jpg
+footer: images/lab_zylias.jpg
 proofer: false
 
 # site social media and other links, see _data/types.yaml for all avail

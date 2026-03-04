@@ -1,177 +1,760 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1109/TASLP.2024.3458799
+  title: Spherically Steerable Vector Differential Microphone Arrays
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  - "H\xFCseyin Hachabibo\u011Flu"
+  publisher: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+  date: '2024-01-01'
+  link: https://doi.org/hbrfmw
+  orcid: 0000-0002-5399-0162
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.softx.2023.101514
+  title: 'sphstat: A Python package for inferential statistics on vectorial data on
+    the unit sphere'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - "H\xFCseyin Hac\u0131habibo\u011Flu"
+  publisher: SoftwareX
+  date: '2023-12-01'
+  link: https://doi.org/hbrfmx
+  orcid: 0000-0002-5399-0162
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1016/j.entcom.2021.100454
+  title: Improving Sleep-Wake Behaviors Using Mobile App Gamification
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Ayse Ezgi Ilhan
+  - Bahar Sener
+  - Huseyin Hacihabiboglu
+  publisher: Entertainment Computing
+  date: '2022-01-01'
+  link: https://doi.org/hbrfmz
+  orcid: 0000-0002-5399-0162
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1109/TASLP.2022.3143697
+  title: Scattering Delay Network Simulator of Coupled Volume Acoustics
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Timucin Berk Atalay
+  - Zuhre Su Gul
+  - Enzo De Sena
+  - Zoran Cvetkovic
+  - Huseyin Hachabiboglu
+  publisher: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+  date: '2022-01-01'
+  link: https://doi.org/hbrfm2
+  orcid: 0000-0002-5399-0162
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1109/WASPAA52581.2021.9632715
+  title: Internal Time Delay Calibration of Rigid Spherical Microphone Arrays for
+    Multi-Perspective 6DoF Audio Recordings
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Ege Erdem
+  - Orhun Olgun
+  - Huseyin Hacihabiboglu
+  publisher: 2021 IEEE Workshop on Applications of Signal Processing to Audio and
+    Acoustics (WASPAA)
+  date: '2021-10-17'
+  link: https://doi.org/hbrfm3
+  orcid: 0000-0002-5399-0162
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1109/I3DA48870.2021.9610848
+  title: Rotation Calibration of Rigid Spherical Microphone Arrays for Multi-perspective
+    6DoF Audio Recordings
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Orhun Olgun
+  - Ege Erdem
+  - Huseyin Hacihabiboglu
+  publisher: '2021 Immersive and 3D Audio: from Architecture to Automotive (I3DA)'
+  date: '2021-09-08'
+  link: https://doi.org/hbrfm4
+  orcid: 0000-0002-5399-0162
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1109/taslp.2021.3091845
+  title: Sparse Representations With Legendre Kernels for DOA Estimation and Acoustic
+    Source Separation
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Mert Burkay Coteli
+  - Huseyin Hachabiboglu
+  publisher: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+  date: '2021-01-01'
+  link: https://doi.org/g535q9
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1051/aacus/2020025
+  title: Effects of interpersonal familiarity on the auditory distance perception
+    of level-equalized reverberant speech
+  authors:
+  - "\xD6zgen Demirkaplan"
+  - "H\xFCseyin Hac\u0131habibo\u011Flu"
+  publisher: Acta Acustica
+  date: '2020-01-01'
+  link: https://doi.org/gsdvxj
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Evaluation of the perceived naturalness of artificial reverberation algorithms
+  publisher: 148th Audio Engineering Society International Convention
+  date: '2023-10-17'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85091599787&partnerID=MN8TOARS
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASLP.2020.2975419
+  title: Localization Uncertainty in Time-Amplitude Stereophonic Reproduction
+  authors:
+  - Enzo De Sena
+  - Zoran Cvetkovic
+  - Huseyin Hachabiboglu
+  - Marc Moonen
+  - Toon van Waterschoot
+  publisher: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+  date: '2020-01-01'
+  link: https://doi.org/hbrfm5
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:23318422
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/23318422
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18154/RWTH-CONV-238971
+  title: Data-driven Threshold Selection for Direct Path Dominance Test
+  authors:
+  - Orhun Olgun
+  - Huseyin Hacihabiboglu
+  publisher: 'Proceedings of the ICA 2019 and EAA Euroregio : 23rd International Congress
+    on Acoustics'
+  date: '2019-01-01'
+  link: https://doi.org/hbrfm6
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICASSP.2019.8682198
+  title: Multiple Sound Source Localization with Rigid Spherical Microphone Arrays
+    via Residual Energy Test
+  authors:
+  - Mert Burkay Coteli
+  - Huseyin Hacihabiboglu
+  publisher: ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech
+    and Signal Processing (ICASSP)
+  date: '2019-05-01'
+  link: https://doi.org/hbrfm7
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICASSP.2019.8682726
+  title: Perceptual Soundfield Reconstruction in Three Dimensions via Sound Field
+    Extrapolation
+  authors:
+  - Ege Erdem
+  - Enzo De Sena
+  - Huseyin Hacihabiboglu
+  - Zoran Cvetkovic
+  publisher: ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech
+    and Signal Processing (ICASSP)
+  date: '2019-05-01'
+  link: https://doi.org/hbrfm8
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASLP.2018.2858932
+  title: Multiple Sound Source Localization With Steered Response Power Density and
+    Hierarchical Grid Refinement
+  authors:
+  - Mert Burkay Coteli
+  - Orhun Olgun
+  - Huseyin Hacihabiboglu
+  publisher: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+  date: '2018-11-01'
+  link: https://doi.org/gd73vj
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IWAENC.2018.8521402
+  title: Acoustic Source Separation Using Rigid Spherical Microphone Arrays Via Spatially
+    Weighted Orthogonal Matching Pursuit
+  authors:
+  - Mert Burkay Coteli
+  - Huseyin Hacihabiboglu
+  publisher: 2018 16th International Workshop on Acoustic Signal Enhancement (IWAENC)
+  date: '2018-09-01'
+  link: https://doi.org/hbrfm9
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IWAENC.2018.8521365
+  title: Localization of Multiple Sources in the Spherical Harmonic Domain with Hierarchical
+    Grid Refinement and Eb-Music
+  authors:
+  - Orhun Olgun
+  - Huseyin Hacihabiboglu
+  publisher: 2018 16th International Workshop on Acoustic Signal Enhancement (IWAENC)
+  date: '2018-09-01'
+  link: https://doi.org/hbrfnb
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MSP.2017.2666081
+  title: 'Perceptual Spatial Audio Recording, Simulation, and Rendering: An overview
+    of spatial-audio techniques based on psychoacoustics'
+  authors:
+  - Huseyin Hacihabiboglu
+  - Enzo De Sena
+  - Zoran Cvetkovic
+  - James Johnston
+  - Julius O. Smith III
+  publisher: IEEE Signal Processing Magazine
+  date: '2017-05-01'
+  link: https://doi.org/gfvzgs
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-53088-8_4
+  title: Procedural Synthesis of Gunshot Sounds Based on Physically Motivated Models
+  authors:
+  - "H\xFCseyin Hac\u0131habibo\u011Flu"
+  publisher: Game Dynamics
+  date: '2017-01-01'
+  link: https://doi.org/hbrfnc
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icassp.2016.7471710
+  title: Acoustic source separation using the short-time quaternion fourier transforms
+    of particle velocity signals
+  authors:
+  - Huseyin Hacihabiboglu
+  publisher: 2016 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  date: '2016-03-01'
+  link: https://doi.org/hbrfnd
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-31510-2_11
+  title: Creating Awareness of Sleep-Wake Hours by Gamification
+  authors:
+  - Ezgi Ilhan
+  - Bahar Sener
+  - "H\xFCseyin Hacihabibo\u011Flu"
+  publisher: Lecture Notes in Computer Science
+  date: '2016-01-01'
+  link: https://doi.org/hbrfnf
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:24136689 24136700
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/24136689 24136700
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASLP.2015.2438547
+  title: Efficient Synthesis of Room Acoustics via Scattering Delay Networks
+  authors:
+  - Enzo De Sena
+  - Huseyin Haciihabiboglu
+  - Zoran Cvetkovic
+  - Julius O. Smith
+  publisher: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+  date: '2015-09-01'
+  link: https://doi.org/ggprp2
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'MEPHISTO: A source to source transpiler from pure data to faust'
+  publisher: Proceedings of the 12th International Conference in Sound and Music Computing,
+    SMC 2015
+  date: '2024-09-13'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84988493216&partnerID=MN8TOARS
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- title: On the Performance of Acoustic Intensity-based Source Localization with an
+    Open Spherical Microphone Array
+  publisher: 139th Audio Engineering Society International Convention, AES 2015
+  date: '2024-09-13'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84983157245&partnerID=MN8TOARS
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icpr.2014.143
+  title: Automatic Speech Emotion Recognition Using Auditory Models with Binary Decision
+    Tree and SVM
+  authors:
+  - Enes Yuncu
+  - Huseyin Hacihabiboglu
+  - Cem Bozsahin
+  publisher: 2014 22nd International Conference on Pattern Recognition
+  date: '2014-08-01'
+  link: https://doi.org/gsdvwt
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/siu.2014.6830351
+  title: Sound source localisation performance of open spherical acoustic intensity
+    probes under reverberant conditions
+  authors:
+  - Huseyin Hacihabiboglu
+  publisher: 2014 22nd Signal Processing and Communications Applications Conference
+    (SIU)
+  date: '2014-04-01'
+  link: https://doi.org/hbrfng
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASLP.2013.2294581
+  title: Theoretical Analysis of Open Spherical Microphone Arrays for Acoustic Intensity
+    Measurements
+  authors:
+  - Huseyin Hacihabiboglu
+  publisher: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+  date: '2014-02-01'
+  link: https://doi.org/hbrfnh
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASL.2013.2260152
+  title: Analysis and Design of Multichannel Systems for Perceptual Sound Field Reconstruction
+  authors:
+  - Enzo De Sena
+  - Huseyin Hacihabiboglu
+  - Zoran Cvetkovic
+  publisher: IEEE Transactions on Audio, Speech, and Language Processing
+  date: '2013-08-01'
+  link: https://doi.org/f4xr9f
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000349479800040
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000349479800040
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/WASPAA.2013.6701848
+  title: On the accuracy of open spherical microphone arrays for measuring acoustic
+    intensity
+  authors:
+  - Hiiseyin Hacihabiboglu
+  publisher: 2013 IEEE Workshop on Applications of Signal Processing to Audio and
+    Acoustics
+  date: '2013-10-01'
+  link: https://doi.org/hbrfnj
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Rhythm-action games: The sonic interaction perspective'
+  publisher: Proceedings of the AES International Conference
+  date: '2024-09-13'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84897500492&partnerID=MN8TOARS
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASL.2011.2164528
+  title: Multichannel Dereverberation Theorems and Robustness Issues
+  authors:
+  - "H\xFCseyin Hacihabibouglu"
+  - Zoran Cvetkovic
+  publisher: IEEE Transactions on Audio, Speech, and Language Processing
+  date: '2012-02-01'
+  link: https://doi.org/dm47rh
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASL.2011.2159204
+  title: On the Design and Implementation of Higher Order Differential Microphones
+  authors:
+  - E. De Sena
+  - H. Hacihabiboglu
+  - Z. Cvetkovic
+  publisher: IEEE Transactions on Audio, Speech, and Language Processing
+  date: '2012-01-01'
+  link: https://doi.org/cdq4rb
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000296062400032
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000296062400032
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICASSP.2011.5946344
+  title: A generalized design method for directivity patterns of spherical microphone
+    arrays
+  authors:
+  - Enzo De Sena
+  - Huseyin Hacihabiboglu
+  - Zoran Cvetkovic
+  publisher: 2011 IEEE International Conference on Acoustics, Speech and Signal Processing
+    (ICASSP)
+  date: '2011-05-01'
+  link: https://doi.org/cxckqg
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/SITIS.2011.41
+  title: Frequency-Domain Scattering Delay Networks for Simulating Room Acoustics
+    in Virtual Environments
+  authors:
+  - Huseyin Hacihabiboglu
+  - Enzo De Sena
+  - Zoran Cvetkovic
+  publisher: 2011 Seventh International Conference on Signal Image Technology &amp;
+    Internet-Based Systems
+  date: '2011-11-01'
+  link: https://doi.org/fzw8qw
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Performance of closed-form acoustic scene decomposition for forensic analysis
+  publisher: Proceedings of the AES International Conference
+  date: '2024-09-13'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-79953807147&partnerID=MN8TOARS
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1049/el.2010.3168
+  title: Allpass variable fractional delay filters by pole loci interpolation
+  authors:
+  - "H. Hac\u0131habibog\u0306lu"
+  publisher: Electronics Letters
+  date: '2010-04-15'
+  link: https://doi.org/dm6z8b
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Design of a circular microphone array for panoramic audio recording and
+    reproduction: Array radius'
+  publisher: 128th Audio Engineering Society Convention 2010
+  date: '2024-09-13'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84866029564&partnerID=MN8TOARS
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Design of a circular microphone array for panoramic audio recording and
+    reproduction: Microphone directivity'
+  publisher: 128th Audio Engineering Society Convention 2010
+  date: '2024-09-13'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84866035957&partnerID=MN8TOARS
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASL.2009.2025100
+  title: Simulation of Directional Microphones in Digital Waveguide Mesh-Based Models
+    of Room Acoustics
+  authors:
+  - H. Hacihabiboglu
+  - B. Gunel
+  - Z. Cvetkovic
+  publisher: IEEE Transactions on Audio, Speech, and Language Processing
+  date: '2010-02-01'
+  link: https://doi.org/bjxgbq
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4018/978-1-61520-919-4.ch006
+  title: Sound Source Localization
+  authors:
+  - "Banu G\xFCnel"
+  - "H\xFCseyin Hacihabiboglu"
+  publisher: Machine Audition
+  date: ''
+  link: https://doi.org/dk3h2d
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Stereophonic rendering of source distance using DWM-FDN artificial reverberators
+  publisher: 128th Audio Engineering Society Convention 2010
+  date: '2024-09-13'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84866043517&partnerID=MN8TOARS
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICASSP.2009.4959515
+  title: Intensity vector direction exploitation for exhaustive blind source separation
+    of convolutive mixtures
+  authors:
+  - Banu Gunel
+  - Huseyin Hacihabiboglu
+  - Ahmet M. Kondoz
+  publisher: 2009 IEEE International Conference on Acoustics, Speech and Signal Processing
+  date: '2009-04-01'
+  link: https://doi.org/cxgx5m
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICASSP.2009.4959579
+  title: Morphing of transient sounds based on shift-invariant discrete wavelet transform
+    and singular value decomposition
+  authors:
+  - Wasim Ahmad
+  - Huseyin Hacihabiboglu
+  - Ahmet M. Kondoz
+  publisher: 2009 IEEE International Conference on Acoustics, Speech and Signal Processing
+  date: '2009-04-01'
+  link: https://doi.org/fvfc6c
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ASPAA.2009.5346464
+  title: Panoramic recording and reproduction of multichannel audio using a circular
+    microphone array
+  authors:
+  - Huseyin Hacihabiboglu
+  - Zoran Cvetkovic
+  publisher: 2009 IEEE Workshop on Applications of Signal Processing to Audio and
+    Acoustics
+  date: '2009-10-01'
+  link: https://doi.org/d6g82g
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASL.2008.918967
+  title: Acoustic Source Separation of Convolutive Mixtures Based on Intensity Vector
+    Statistics
+  authors:
+  - Banu Gunel
+  - Huseyin Hacihabiboglu
+  - Ahmet M. Kondoz
+  publisher: IEEE Transactions on Audio, Speech, and Language Processing
+  date: '2008-05-01'
+  link: https://doi.org/c7pbnz
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:22265147
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/22265147
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LSP.2007.911162
+  title: On the Accuracy of First-Order Numerical Derivatives in Multidimensional
+    Digital Waveguide Mesh Topologies
+  authors:
+  - Hseyin Hacihabiboglu
+  - Banu Gunel
+  - Ahmet M. Kondoz
+  publisher: IEEE Signal Processing Letters
+  date: '2008-01-01'
+  link: https://doi.org/c3s8hn
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.apacoust.2007.02.006
+  title: Perceptual simplification for model-based binaural room auralisation
+  authors:
+  - "H\xFCseyin Hac\u0131habibo\u011Flu"
+  - Fionn Murtagh
+  publisher: Applied Acoustics
+  date: '2008-08-01'
+  link: https://doi.org/c3s63h
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASL.2008.921759
+  title: Time-Domain Simulation of Directive Sources in 3-D Digital Waveguide Mesh-Based
+    Acoustical Models
+  authors:
+  - H. Hacihabiboglu
+  - B. Gunel
+  - A.M. Kondoz
+  publisher: IEEE Transactions on Audio, Speech, and Language Processing
+  date: '2008-07-01'
+  link: https://doi.org/fq2vwt
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TSP.2007.897916
+  title: Analysis of Root Displacement Interpolation Method for Tunable Allpass Fractional-Delay
+    Filters
+  authors:
+  - Huseyin Hacihabiboglu
+  - Banu Gunel
+  - Ahmet M. Kondoz
+  publisher: IEEE Transactions on Signal Processing
+  date: '2007-10-01'
+  link: https://doi.org/dpbbpb
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Plane wave decomposition with regularization using a single rotating microphone
+  publisher: Proceedings of the AES International Conference
+  date: '2024-09-13'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-45349083631&partnerID=MN8TOARS
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Source directivity simulation in digital waveguide mesh-based room acoustics
+    models
+  publisher: Proceedings of the AES International Conference
+  date: '2024-09-13'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-45349089298&partnerID=MN8TOARS
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.apacoust.2006.04.008
+  title: Wavelet packet based analysis of sound fields in rooms using coincident microphone
+    arrays
+  authors:
+  - "Banu G\xFCnel"
+  - "H\xFCseyin Hac\u0131habibo\u011Flu"
+  - Ahmet M. Kondoz
+  publisher: Applied Acoustics
+  date: '2007-07-01'
+  link: https://doi.org/d5hqr8
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000238264600011
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000238264600011
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:16101928
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/16101928
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000245559904004
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000245559904004
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:15206149
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/15206149
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ASPAA.2005.1540187
+  title: Head-related transfer function filter interpolation by root displacement
+  authors:
+  - H. Hacihabiboglu
+  - B. Gunel
+  - A.M. Kondoz
+  publisher: IEEE Workshop on Applications of Signal Processing to Audio and Acoustics,
+    2005.
+  date: ''
+  link: https://doi.org/bdqwnt
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ASPAA.2005.1540193
+  title: Sound field analysis using a compact pressure-gradient array
+  authors:
+  - B. Gunel
+  - H. Hacihabiboglu
+  - A.M. Kondoz
+  publisher: IEEE Workshop on Applications of Signal Processing to Audio and Acoustics,
+    2005.
+  date: ''
+  link: https://doi.org/d8xbb2
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ASPAA.2003.1285794
+  title: A fixed-cost variable-length auralization filter model utilizing the precedence
+    effect
+  authors:
+  - H. Hacihabiboglu
+  publisher: 2003 IEEE Workshop on Applications of Signal Processing to Audio and
+    Acoustics (IEEE Cat. No.03TH8684)
+  date: ''
+  link: https://doi.org/fnjz96
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000187064300015
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000187064300015
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4018/9781615209194.ch006
+  title: Sound Source Localization
+  authors:
+  - "Banu G\xFCnel"
+  - "H\xFCseyin Hacihabiboglu"
+  publisher: Machine Audition
+  date: ''
+  link: https://doi.org/c3bchm
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4018/978-1-4666-5888-2.ch594
+  title: Spatial and 3-D Audio Systems
+  authors:
+  - "H\xFCseyin Hac\u0131habibo\u011Flu"
+  publisher: Advances in Information Quality and Management
+  date: '2014-07-31'
+  link: https://doi.org/hbrfnv
+  orcid: 0000-0002-5399-0162
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icassp48485.2024.10446986
+  title: Semi-Blind Estimation of Direct-to-Reverberant Energy Ratio Using Residual
+    Energy Test Statistics
+  authors:
+  - "Ali G\xF6k\xE7e"
+  - "H\xFCseyin Hac\u0131habibo\u011Flu"
+  publisher: ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech
+    and Signal Processing (ICASSP)
+  date: '2024-04-14'
+  link: https://doi.org/gt2pzn
+  orcid: 0000-0001-8810-0740
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:PQDT:119000210
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:PQDT:119000210
+  orcid: 0000-0001-8810-0740
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -187,9 +770,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -206,21 +786,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:

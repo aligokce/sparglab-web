@@ -1,27 +1,24 @@
 ---
 title: Projects
 nav:
-  order: 2
+  order: 3
   tooltip: Software, datasets, and more
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="software, dataset, research-grant" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## Ongoing
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="projects" filter="group == 'ongoing'" %}
 
 {% include section.html %}
 
-## More
+## Past
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" filter="!group" %}
