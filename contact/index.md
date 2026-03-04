@@ -1,77 +1,24 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 99
   tooltip: Email, address, and location
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  text="info@sparglab.org"
+  link="info@sparglab.org"
 %}
 
 {% include section.html %}
 
-{% capture col1 %}
+<center>
+METU Graduate School of Informatics, Üniversiteler Mahallesi, No 1, Dumlupınar Bulvarı, Çankaya, Ankara, Türkiye
+</center><br>
 
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2191.839419429711!2d32.77791901759414!3d39.89318070302644!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d34638f0336879%3A0xa75559f254b7f548!2sMETU%20Informatics%20Institute!5e0!3m2!1sen!2str!4v1772647538127!5m2!1sen!2str" width="800" height="420" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

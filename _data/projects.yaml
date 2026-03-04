@@ -1,47 +1,21 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+- title: Development of a MPAI Standard for scene-based Six Degrees-of-Freedom audio coding and compression
+  subtitle: YÖK ADEP PROJECT (ADEP-704-2024-11499)
+  group: ongoing
+  description: This is a prestigious university research grant funded by YÖK that will work towards developing an AI-based coding and compression approach within the context of MPAI-CAE (Context-based Audio Enhancement) standard.
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+- title: Measurement of sound source directivity using secondary source models in the spherical harmonic domain
+  subtitle: TÜBİTAK 1002 RESEARCH PROJECT (EEEAG-123E399), METU II, Ankara, Turkey (2024)
+  description: This is a short and focused project that will investigate the use of RSMAs in measuring the directivity patterns of sound sources using a secondary source model.
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+- title: Audio Signal Processing for Six Degrees of Freedom (6DOF) Immersive Media
+  subtitle: TÜBİTAK 1001 RESEARCH PROJECT (EEEAG-119E254), METU II, Ankara, Turkey (2019-2023)
+  link: http://www.6dofaudio.net/
+  description: The overarching aim of the project was to synthesise the sound field at a location in the recording volume using a limited number of RSMA recordings of the acoustic scene. Techniques were developed to that aim will include sound field extrapolation using spherical harmonic decompositions and object-based sparse approximations using a dictionary-based representation of the plane wave decomposition of the sound field. The planned research also includes work on transcoding the sound field for interactive binaural reproduction. Specifically, transcoding between interpolated higher-order Ambisonics and binaural audio will be investigated. The theoretical results of the project were be validated using real recordings.
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: Spatial audio reproduction using analysis-based synthesis techniques
+  subtitle: TÜBİTAK 1001 RESEARCH PROJECT (EEEAG-113E513), METU II, Ankara, Turkey (2014-2018)
+  description: This project aims to develop a spatial audio recording, coding, reproduction chain based on the analysis of sound scenes from recordings made with special microphone arrays. The project will investigate novel sound source localisation and separation algorithms and direct/diffuse separation from recordings; develop sound scene authoring tools and necessary methods for 3D and spatial sound source generation.
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+- title: Sound source localisation using open spherical acoustic intensity probes
+  subtitle: METU BAP-1 STARTUP GRANT (BAP-08-11-2013-057), METU II, Ankara, Turkey (2013-2015)
+  description: This project aims to design and develop open spherical microphone arrays to accurately measure acoustic intensity and use the acoustic intensity vectors for localising sound sources, even under highly reverberant environments.
