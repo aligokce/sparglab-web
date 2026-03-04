@@ -1,11 +1,17 @@
 ---
 ---
 
-# aligokce's Website
+# METU Spatial Audio Research Group
 
-An engaging 1-3 sentence description of your lab.
+Founded in 2013 to consolidate ongoing research work at [METU Graduate School of Informatics](https://ii.metu.edu.tr/) in the area of audio signal processing to further the state-of-the-art in spatial and 3D audio capture, editing, synthesis, transmission, reproduction, and testing.
+
+The research themes include: microphone array signal processing, spatial/3D/6DoF audio, procedural sound, automatic soundscape analysis, artificial reverberation, musical interaction, audio-based biometrics and applications of deep learning to room acoustics and microphone array signal processing problems.
+
+We always welcome new group members and external collaborators so drop us a line from [info@sparglab.org](mailto:info@sparglab.org) if you are interested in joint work.
 
 {% include section.html %}
+
+<!-- 
 
 ## Highlights
 
@@ -79,3 +85,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+-->
