@@ -6,7 +6,7 @@
   # METU Spatial Audio Research Group website
 
   _for now:_
-  Visit **[aligokce.github.io/sparglab-web](https://aligokce.github.io/sparglab-web)** 🚀
+  Visit **[metu-sparg.github.io](https://metu-sparg.github.io)** 🚀
 
   _eventually:_
   Visit **[sparglab.org](https://sparglab.org)** 🚀
