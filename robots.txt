@@ -1,1 +1,1 @@
-Sitemap: https://aligokce.github.io/sparglab-web/sitemap.xml
+Sitemap: https://metu-sparg.github.io/sitemap.xml
