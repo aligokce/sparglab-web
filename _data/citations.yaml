@@ -120,7 +120,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:23318422
-  title: ''
+  title: ISSN 2331-8422 - ArXiv.org
   authors: []
   publisher: ''
   date: ''
@@ -545,7 +545,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:22265147
-  title: ''
+  title: ISSN 2226-5147 - Proceedings (Euronoise)
   authors: []
   publisher: ''
   date: ''
@@ -641,7 +641,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:16101928
-  title: ''
+  title: ISSN 1610-1928 - Acta acustica united with Acustica (Print)
   authors: []
   publisher: ''
   date: ''
@@ -659,7 +659,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:15206149
-  title: ''
+  title: ISSN 1520-6149 - Proceedings of the ... IEEE International Conference on
+    Acoustics, Speech, and Signal Processing
   authors: []
   publisher: ''
   date: ''
